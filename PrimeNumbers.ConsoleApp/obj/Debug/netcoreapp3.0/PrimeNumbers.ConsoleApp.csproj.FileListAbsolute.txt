@@ -1,0 +1,14 @@
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.exe
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.deps.json
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.runtimeconfig.json
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.runtimeconfig.dev.json
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.dll
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.pdb
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PirmeNumbers.Core.dll
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\bin\Debug\netcoreapp3.0\PirmeNumbers.Core.pdb
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.csprojAssemblyReference.cache
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.AssemblyInfoInputs.cache
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.AssemblyInfo.cs
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.csproj.CopyComplete
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.dll
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.pdb
