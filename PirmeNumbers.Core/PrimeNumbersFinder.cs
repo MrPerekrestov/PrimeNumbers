@@ -87,7 +87,7 @@ namespace PirmeNumbers.Core
                         MaxPrimeNumber= maxPrimeNumber,
                         NumberOfIterations = numberOfIterations,
                         NumberOfPrimeNumbers = numberOfPrimeNumbers,
-                        MillisecondsPassed = secondsPassedFromLastLoggin
+                        MillisecondsPassed = DateTime.UtcNow.Subtract(initialTimeStamp)
                     });
                     lastLogged = DateTime.UtcNow;
                 }
