@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v3.0": {
       "PrimeNumbers.ConsoleApp/1.0.0": {
         "dependencies": {
-          "PirmeNumbers.Core": "1.0.0"
+          "PrimeNumbers.Core": "1.0.0"
         },
         "runtime": {
           "PrimeNumbers.ConsoleApp.dll": {}
         }
       },
-      "PirmeNumbers.Core/1.0.0": {
+      "PrimeNumbers.Core/1.0.0": {
         "runtime": {
-          "PirmeNumbers.Core.dll": {}
+          "PrimeNumbers.Core.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "PirmeNumbers.Core/1.0.0": {
+    "PrimeNumbers.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

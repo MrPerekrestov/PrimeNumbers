@@ -1439,14 +1439,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "PirmeNumbers.Core/1.0.0": {
+      "PrimeNumbers.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/PirmeNumbers.Core.dll": {}
+          "bin/placeholder/PrimeNumbers.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PirmeNumbers.Core.dll": {}
+          "bin/placeholder/PrimeNumbers.Core.dll": {}
         }
       }
     }
@@ -5216,17 +5216,17 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "PirmeNumbers.Core/1.0.0": {
+    "PrimeNumbers.Core/1.0.0": {
       "type": "project",
-      "path": "../PirmeNumbers.Core/PirmeNumbers.Core.csproj",
-      "msbuildProject": "../PirmeNumbers.Core/PirmeNumbers.Core.csproj"
+      "path": "../PrimeNumbers.Core/PrimeNumbers.Core.csproj",
+      "msbuildProject": "../PrimeNumbers.Core/PrimeNumbers.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "NUnit3TestAdapter >= 3.13.0",
-      "PirmeNumbers.Core >= 1.0.0",
+      "PrimeNumbers.Core >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -5260,8 +5260,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj": {
-              "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj"
+            "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
+              "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj"
             }
           }
         }

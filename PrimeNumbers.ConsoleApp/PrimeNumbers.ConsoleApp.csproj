@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PirmeNumbers.Core\PirmeNumbers.Core.csproj" />
+    <ProjectReference Include="..\PrimeNumbers.Core\PrimeNumbers.Core.csproj" />
   </ItemGroup>
 
 </Project>

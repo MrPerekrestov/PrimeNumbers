@@ -1,30 +1,79 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj": {}
+    "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj": {
+    "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj",
-        "projectName": "PirmeNumbers.Core",
-        "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj",
-        "packagesPath": "C:\\Users\\Roman Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\obj\\",
+        "projectUniqueName": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj",
+        "projectName": "PrimeNumbers.ConsoleApp",
+        "projectPath": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Roman Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj": {
+                "projectPath": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj",
+        "projectName": "PrimeNumbers.Core",
+        "projectPath": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,66 +107,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj",
-        "projectName": "PrimeNumbers.ConsoleApp",
-        "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\Roman Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Roman Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.0": {
-            "projectReferences": {
-              "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj": {
-                "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.0": {
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,4 @@
-﻿using PirmeNumbers.Core;
+﻿using PrimeNumbers.Core;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -23,7 +23,9 @@ namespace PrimeNumbers.ConsoleApp
             finder.FindPrimes(new TimeSpan(0, 0, 10), new TimeSpan(0, 0, 0, 0, 200));
             foreach(var progressItem in resultList)
             {
-                var resultString = $"passed: {Convert.ToInt32(progressItem.MillisecondsPassed.TotalMilliseconds)} ms, number of primes: {progressItem.NumberOfPrimeNumbers}";
+                var resultString = $"passed: {Convert.ToInt32(progressItem.MillisecondsPassed.TotalMilliseconds)} ms," +
+                    $" number of primes: {progressItem.NumberOfPrimeNumbers}," +
+                    $" number of iterations {progressItem.NumberOfIterations}";
                 File.AppendAllText("Result.txt", resultString + "\n");
             }
         }

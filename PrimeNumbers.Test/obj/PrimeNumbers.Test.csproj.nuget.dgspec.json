@@ -4,14 +4,14 @@
     "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj": {}
   },
   "projects": {
-    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj": {
+    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj",
-        "projectName": "PirmeNumbers.Core",
-        "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj",
+        "projectUniqueName": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
+        "projectName": "PrimeNumbers.Core",
+        "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
         "packagesPath": "C:\\Users\\Roman Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\obj\\",
+        "outputPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj": {
-                "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PirmeNumbers.Core\\PirmeNumbers.Core.csproj"
+              "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
+                "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj"
               }
             }
           }

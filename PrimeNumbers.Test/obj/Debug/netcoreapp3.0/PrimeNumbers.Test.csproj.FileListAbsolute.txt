@@ -90,5 +90,5 @@ D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\obj\Debug\netcoreapp3.
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\obj\Debug\netcoreapp3.0\PrimeNumbers.Test.csproj.CopyComplete
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\obj\Debug\netcoreapp3.0\PrimeNumbers.Test.dll
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\obj\Debug\netcoreapp3.0\PrimeNumbers.Test.pdb
-D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\bin\Debug\netcoreapp3.0\PirmeNumbers.Core.dll
-D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\bin\Debug\netcoreapp3.0\PirmeNumbers.Core.pdb
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\bin\Debug\netcoreapp3.0\PrimeNumbers.Core.dll
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Test\bin\Debug\netcoreapp3.0\PrimeNumbers.Core.pdb

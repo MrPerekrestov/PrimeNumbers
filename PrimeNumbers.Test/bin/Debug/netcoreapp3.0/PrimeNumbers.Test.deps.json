@@ -10,7 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.2.0",
           "NUnit3TestAdapter": "3.13.0",
-          "PirmeNumbers.Core": "1.0.0",
+          "PrimeNumbers.Core": "1.0.0",
           "NUnit": "3.12.0"
         },
         "runtime": {
@@ -1009,9 +1009,9 @@
           }
         }
       },
-      "PirmeNumbers.Core/1.0.0": {
+      "PrimeNumbers.Core/1.0.0": {
         "runtime": {
-          "PirmeNumbers.Core.dll": {}
+          "PrimeNumbers.Core.dll": {}
         }
       }
     }
@@ -1526,7 +1526,7 @@
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
-    "PirmeNumbers.Core/1.0.0": {
+    "PrimeNumbers.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

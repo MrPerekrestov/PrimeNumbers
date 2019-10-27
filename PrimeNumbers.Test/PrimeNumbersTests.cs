@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestPlatform.ObjectModel;
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
-using PirmeNumbers.Core;
+using PrimeNumbers.Core;
 using System;
 using System.Threading.Tasks;
 

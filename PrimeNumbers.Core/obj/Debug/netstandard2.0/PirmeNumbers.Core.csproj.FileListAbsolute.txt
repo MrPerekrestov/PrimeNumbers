@@ -1,0 +1,7 @@
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PirmeNumbers.Core\bin\Debug\netstandard2.0\PirmeNumbers.Core.deps.json
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PirmeNumbers.Core\bin\Debug\netstandard2.0\PirmeNumbers.Core.dll
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PirmeNumbers.Core\bin\Debug\netstandard2.0\PirmeNumbers.Core.pdb
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PirmeNumbers.Core\obj\Debug\netstandard2.0\PirmeNumbers.Core.AssemblyInfoInputs.cache
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PirmeNumbers.Core\obj\Debug\netstandard2.0\PirmeNumbers.Core.AssemblyInfo.cs
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PirmeNumbers.Core\obj\Debug\netstandard2.0\PirmeNumbers.Core.dll
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PirmeNumbers.Core\obj\Debug\netstandard2.0\PirmeNumbers.Core.pdb
