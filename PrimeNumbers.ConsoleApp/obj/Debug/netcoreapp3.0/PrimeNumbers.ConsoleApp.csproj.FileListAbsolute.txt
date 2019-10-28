@@ -25,3 +25,4 @@ D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcor
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.csproj.CopyComplete
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.dll
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.pdb
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Debug\netcoreapp3.0\PrimeNumbers.ConsoleApp.csprojAssemblyReference.cache
