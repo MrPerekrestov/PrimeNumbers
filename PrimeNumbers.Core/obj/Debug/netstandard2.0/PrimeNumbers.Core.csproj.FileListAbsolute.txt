@@ -20,3 +20,11 @@ D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.AssemblyInfo.cs
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.dll
 D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.pdb
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\bin\Debug\netstandard2.0\PrimeNumbers.Core.deps.json
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\bin\Debug\netstandard2.0\PrimeNumbers.Core.dll
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\bin\Debug\netstandard2.0\PrimeNumbers.Core.pdb
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.csprojAssemblyReference.cache
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.AssemblyInfoInputs.cache
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.AssemblyInfo.cs
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.dll
+D:\MyProgramms\PrimeNumbers\PrimeNumbers.Core\obj\Debug\netstandard2.0\PrimeNumbers.Core.pdb

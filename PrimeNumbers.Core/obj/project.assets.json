@@ -179,24 +179,33 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\Perekrestov\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj",
+      "projectUniqueName": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
       "projectName": "PrimeNumbers.Core",
-      "projectPath": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/",
+      "projectPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
+      "packagesPath": "C:\\Users\\Perekrestov\\.nuget\\packages\\",
+      "outputPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -230,7 +239,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
       }
     }
   }

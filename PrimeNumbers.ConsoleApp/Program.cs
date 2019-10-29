@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Threading;
 
 namespace PrimeNumbers.ConsoleApp
 {
@@ -9,25 +10,44 @@ namespace PrimeNumbers.ConsoleApp
     {
         static void Main(string[] args)
         {            
-            if (File.Exists("Result.txt"))
+            if (File.Exists("Result.csv"))
             {
-                File.Delete("Result.txt");
+                File.Delete("Result.csv");
             }
+            var acquisitionTimeSeconds = 10;
+            var logginPeriodMillis = 200;
             var resultList = new List<PrimeNumbersProgressModel>();
             void reportAction(PrimeNumbersProgressModel progressModel)
             {               
                 resultList.Add(progressModel);               
             }
             var finder = new PrimeNumbersFinder(reportAction);
-            
-            finder.FindPrimes(new TimeSpan(0, 0, 10), new TimeSpan(0, 0, 0, 0, 200));
+
+            var timerStart = DateTime.Now;
+            var timer = new Timer(obj=>{
+                Console.CursorVisible=false;
+                var currentTime = DateTime.Now;
+                var timePassed = currentTime.Subtract(timerStart);
+                Console.CursorLeft=0;                
+                Console.Write($"Time passed: {Math.Round(timePassed.TotalSeconds,2,MidpointRounding.ToZero)} s {new String(' ',10)}");
+            },null,0, 1000);
+
+            finder.FindPrimes(
+                new TimeSpan(0, 0, acquisitionTimeSeconds),
+                new TimeSpan(0, 0, 0, 0, logginPeriodMillis));
+
             foreach(var progressItem in resultList)
             {
-                var resultString = $"passed: {Convert.ToInt32(progressItem.MillisecondsPassed.TotalMilliseconds)} ms," +
-                    $" number of primes: {progressItem.NumberOfPrimeNumbers}," +
-                    $" number of iterations {progressItem.NumberOfIterations}";
-                File.AppendAllText("Result.txt", resultString + "\n");
+                var resultString = $"{Convert.ToInt32(progressItem.MillisecondsPassed.TotalMilliseconds)}, " +
+                    $"{progressItem.NumberOfPrimeNumbers}, " +
+                    $"{progressItem.NumberOfIterations}, "+
+                    $"{progressItem.MaxPrimeNumber}";
+
+                File.AppendAllText("Result.scv", resultString + "\n");
             }
+
+            timer?.Dispose();
+            Console.CursorVisible=true;
         }
     }
 }
