@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj": {}
+    "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj": {}
   },
   "projects": {
-    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
+    "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
+        "projectUniqueName": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
         "projectName": "PrimeNumbers.Core",
-        "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
-        "packagesPath": "C:\\Users\\Roman Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\obj\\",
+        "projectPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
+        "packagesPath": "C:\\Users\\Perekrestov\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roman Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -62,21 +64,23 @@
         }
       }
     },
-    "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj": {
+    "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj",
+        "projectUniqueName": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj",
         "projectName": "PrimeNumbers.Test",
-        "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj",
-        "packagesPath": "C:\\Users\\Roman Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Test\\obj\\",
+        "projectPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Test\\PrimeNumbers.Test.csproj",
+        "packagesPath": "C:\\Users\\Perekrestov\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roman Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -88,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
-                "projectPath": "D:\\MyPrograms\\PrimeNumbers\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj"
+              "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
+                "projectPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj"
               }
             }
           }
@@ -126,6 +130,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
