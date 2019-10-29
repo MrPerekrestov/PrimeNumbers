@@ -9,7 +9,7 @@ namespace PrimeNumbers.ConsoleApp
     class Program
     {
         static void Main(string[] args)
-        {            
+        {   
             if (File.Exists("Result.csv"))
             {
                 File.Delete("Result.csv");
