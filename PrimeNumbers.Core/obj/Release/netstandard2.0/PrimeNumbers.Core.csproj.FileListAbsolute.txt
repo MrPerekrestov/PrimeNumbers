@@ -1,0 +1,16 @@
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/bin/Release/netstandard2.0/PrimeNumbers.Core.deps.json
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/bin/Release/netstandard2.0/PrimeNumbers.Core.dll
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/bin/Release/netstandard2.0/PrimeNumbers.Core.pdb
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.AssemblyInfoInputs.cache
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.AssemblyInfo.cs
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.dll
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.pdb
+D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.csprojAssemblyReference.cache
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/bin/Release/netstandard2.0/PrimeNumbers.Core.deps.json
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/bin/Release/netstandard2.0/PrimeNumbers.Core.dll
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/bin/Release/netstandard2.0/PrimeNumbers.Core.pdb
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.csprojAssemblyReference.cache
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.AssemblyInfoInputs.cache
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.AssemblyInfo.cs
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.dll
+/mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.Core/obj/Release/netstandard2.0/PrimeNumbers.Core.pdb
