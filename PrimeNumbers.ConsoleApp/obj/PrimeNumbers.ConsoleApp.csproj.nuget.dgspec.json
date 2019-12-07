@@ -1,39 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj": {}
+    "/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj": {
+    "/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj",
+        "projectUniqueName": "/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj",
         "projectName": "PrimeNumbers.ConsoleApp",
-        "projectPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\PrimeNumbers.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.ConsoleApp\\obj\\",
+        "projectPath": "/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/PrimeNumbers.ConsoleApp.csproj",
+        "packagesPath": "/home/roman/.nuget/packages/",
+        "outputPath": "/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/roman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
-                "projectPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj"
+              "/DotNetExamples/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj": {
+                "projectPath": "/DotNetExamples/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj"
               }
             }
           }
@@ -56,56 +52,34 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj": {
+    "/DotNetExamples/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
+        "projectUniqueName": "/DotNetExamples/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj",
         "projectName": "PrimeNumbers.Core",
-        "projectPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\PrimeNumbers.Core.csproj",
-        "packagesPath": "C:\\Users\\Perekrestov\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProgramms\\PrimeNumbers\\PrimeNumbers.Core\\obj\\",
+        "projectPath": "/DotNetExamples/PrimeNumbers/PrimeNumbers.Core/PrimeNumbers.Core.csproj",
+        "packagesPath": "/home/roman/.nuget/packages/",
+        "outputPath": "/DotNetExamples/PrimeNumbers/PrimeNumbers.Core/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Perekrestov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/roman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,7 +113,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100-preview1-014459\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

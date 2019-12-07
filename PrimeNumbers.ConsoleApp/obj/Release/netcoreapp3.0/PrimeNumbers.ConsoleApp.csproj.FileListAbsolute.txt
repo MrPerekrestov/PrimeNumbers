@@ -26,3 +26,17 @@ D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netc
 /mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.csproj.CopyComplete
 /mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.dll
 /mnt/d/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.pdb
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.deps.json
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.runtimeconfig.json
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.runtimeconfig.dev.json
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.dll
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.pdb
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.Core.dll
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/bin/Release/netcoreapp3.0/PrimeNumbers.Core.pdb
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.csprojAssemblyReference.cache
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.AssemblyInfoInputs.cache
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.AssemblyInfo.cs
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.csproj.CopyComplete
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.dll
+/DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.pdb
