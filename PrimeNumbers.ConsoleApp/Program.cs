@@ -10,7 +10,7 @@ namespace PrimeNumbers.ConsoleApp
     class Program
     {
         static void Main(string[] args)
-        {            
+        {
             if (File.Exists("Result.csv"))
             {
                 File.Delete("Result.csv");
@@ -22,17 +22,17 @@ namespace PrimeNumbers.ConsoleApp
             var finder = new PrimeNumbersFinder(reportAction);
             Console.CursorVisible = false;
             var timer = new Timer((obj) =>
-            {               
+            {
                 var timePassed = DateTime.Now.Subtract(timeStarted);
                 Console.Write($" Seconds passed: {Convert.ToInt32(timePassed.TotalSeconds)}");
                 Console.CursorLeft = 0;
-            },null,0,1000);
+            }, null, 0, 1000);
 
             finder.FindPrimes(
-                new TimeSpan(0,0, acquisitionTimeSeconds),
+                new TimeSpan(0, 0, acquisitionTimeSeconds),
                 new TimeSpan(0, 0, 0, 0, logginPeriodMilliseconds));
-            
-            foreach(var progressItem in resultList)
+
+            foreach (var progressItem in resultList)
             {
                 var resultString = $"{Convert.ToInt32(progressItem.MillisecondsPassed.TotalMilliseconds)}," +
                     $"{progressItem.NumberOfPrimeNumbers}, " +

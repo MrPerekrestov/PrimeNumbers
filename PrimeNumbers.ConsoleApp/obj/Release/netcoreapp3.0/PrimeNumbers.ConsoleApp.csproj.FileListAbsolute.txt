@@ -40,3 +40,6 @@ D:/MyPrograms/PrimeNumbers/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netc
 /DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.csproj.CopyComplete
 /DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.dll
 /DotNetExamples/PrimeNumbers/PrimeNumbers.ConsoleApp/obj/Release/netcoreapp3.0/PrimeNumbers.ConsoleApp.pdb
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Release\netcoreapp3.0\PrimeNumbers.ConsoleApp.csprojAssemblyReference.cache
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Release\netcoreapp3.0\PrimeNumbers.ConsoleApp.AssemblyInfoInputs.cache
+D:\MyPrograms\PrimeNumbers\PrimeNumbers\PrimeNumbers.ConsoleApp\obj\Release\netcoreapp3.0\PrimeNumbers.ConsoleApp.AssemblyInfo.cs
